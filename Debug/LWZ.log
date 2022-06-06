@@ -1,0 +1,13 @@
+﻿  LWZ.cpp
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(61,13): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(63,16): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(68,10): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(70,16): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(83,13): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(85,24): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(109,13): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(111,24): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(140,19): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(157,31): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+E:\Школа\Пароль\3\4\3\LWZ\LWZ\LWZ.cpp(193,13): warning C4244: =: преобразование "double" в "ll", возможна потеря данных
+  LWZ.vcxproj -> E:\Школа\Пароль\3\4\3\LWZ\Debug\LWZ.exe
